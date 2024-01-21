@@ -4,6 +4,8 @@ This project basically generates a summary text of any YouTube video (provided t
 
 The extension can be added in the Browser and it will start working.
 
+![1](https://github.com/Atharva089/YouTube-Video-Summariser/assets/112580278/02c71b8e-14a7-4ee6-9283-8104273cef57)
+
 https://github.com/Atharva089/YouTube-Video-Summariser/assets/112580278/02c71b8e-14a7-4ee6-9283-8104273cef57
 
 https://github.com/Atharva089/YouTube-Video-Summariser/assets/112580278/aa958250-0364-42fb-bd7f-bc957f344482
